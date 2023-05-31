@@ -1,12 +1,11 @@
-# Evaluating-Public-Anxiety
+# Evaluating-Public-Anxiety (public_anxiety_detection)
 Research Project 2022-2023
 
 Team Members:-
 
-1.Sanidhya Varshney
+1.Harsh varshney  
 
-2.Ravi Varshney
+2.Aditya Kulshrestha
 
-3.Prabuddha Kumar
+3.Utkarsh Upadhyay
 
-4.Lalit Saini
